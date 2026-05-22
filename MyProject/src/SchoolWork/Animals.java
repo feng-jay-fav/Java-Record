@@ -51,9 +51,3 @@ public class Animals {
     }
 }
 
-class A {
-    // 类里面可以在方法里 new 自己
-    public void test() {
-        A a = new A();
-    }
-}
